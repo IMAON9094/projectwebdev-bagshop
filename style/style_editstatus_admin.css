@@ -1,0 +1,40 @@
+:root{
+    background-color: #420D09;
+}
+#editstatus {
+    background-color: white;
+    width: 400px;
+    height: 320px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #420D09;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 100px;
+    margin-left: 390px;
+    text-align: center;
+}
+#input{
+    text-align: right;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+input[type="submit"]{
+    background-color: #420D09;
+    font-weight: bold;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 15px;
+    width: 100px;
+}
+header {
+    font-size: 40px;
+}
+select{
+    padding: 5px;
+    margin: 10px 0 0 0;
+}

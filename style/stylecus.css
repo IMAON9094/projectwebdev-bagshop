@@ -1,0 +1,35 @@
+.show-product {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(auto-fill, 325px);
+    grid-gap: 10px;
+    padding: 10px;
+}
+.show-pd {
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
+.show-pdlink {
+    text-decoration-line: none;
+    color: black;
+    font-weight: bolder;
+}
+.all-detail {
+    display: flex;
+    padding: 15px;
+}
+.pd-detail {
+    border: 1px solid black;
+    padding: 15px;
+    width: 350px;
+}
+.cart-tb {
+    border: 1px solid black;
+}
+header {
+    background-color: #930a00;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+}

@@ -1,0 +1,69 @@
+.show-productcus {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 284px);
+    grid-template-rows: repeat(auto-fill, 325px);
+    grid-gap: 10px;
+    padding: 10px;
+}
+.show-pdcus {
+    border: 5px solid #930a00;
+    border-radius: 8px;
+    text-align: center;
+    padding: 15px;
+}
+.link-update {
+    text-decoration-line: none;
+    color: black;
+}
+.slink-ud {
+    font-size: 100px;
+    font-weight: bolder;
+}
+header {
+    background-color: #930a00;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+}
+.gar{
+    color: white;
+    font-weight: bold;
+}
+.u{
+    text-align: right;
+    font-size: 17px;
+}
+b :hover {
+    background-color :#FFA500;
+}
+b a{
+    background-color: white;
+    color: black;
+    padding: 3px 5px;      
+    text-decoration: none;
+    margin: auto;
+    border: 0px solid white;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.show-pdcus a {
+  text-decoration: none;
+  background-color: white;
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+  color: black;
+  background-color:#FAEBD7;
+
+}
+g :hover {
+    background-color :#FFA500;
+}
+.slink-ud{
+    color: #930a00;
+}
+
+
+  
+
+  

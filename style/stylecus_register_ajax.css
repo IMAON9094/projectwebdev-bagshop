@@ -1,0 +1,43 @@
+:root{
+    background-color: #420D09;
+}
+#registerform {
+    background-color: white;
+    width: 340px;
+    height: 300px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: #420D09;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 110px;
+    margin-left: 435px;
+    text-align: center;
+}
+#input{
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.button{
+    background-color: #420D09;
+    font-weight: bold;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 20px;
+    width: 100px;
+}
+header {
+    font-size: 40px;
+}
+.denied {
+    border-color: rgb(243, 52, 39);
+    background-color: rgba(255, 0, 0, 0.603);
+}
+.approve {
+    border-color: rgb(20, 119, 37);
+}

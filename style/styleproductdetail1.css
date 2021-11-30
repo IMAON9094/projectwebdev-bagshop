@@ -1,0 +1,73 @@
+*{
+    background-color: #420D09;
+
+}
+header{
+    background-color:#930a00;
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+}
+header:hover{
+        background-color:white;
+        color: #420D09;
+    }
+
+.all-detail {
+    text-align: left;
+}
+.pd-detail {
+    border: 7px double white;
+    width: 350px;
+    color: white;
+    border-radius: 20px;
+    background-color: #420D09 ;
+}
+.pd-detail:hover {
+    border: 7px double white;
+    width: 350px;
+    color: #FD464A;
+    border-radius: 20px;
+    background-color: #420D09 ;
+
+}    
+
+#add {
+    background-color: #420D09;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    text-align: center ;
+    border: 2px outset white;
+
+}
+#add:hover {
+    background-color: #FC4C4E;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    text-align: center ;
+    border: 2px outset white;
+}
+input[type=number]::-webkit-inner-spin-button {
+    opacity: 1;
+ }
+ input[type="number"]{
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 3px;
+}

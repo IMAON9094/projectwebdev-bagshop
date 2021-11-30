@@ -1,0 +1,53 @@
+:root{
+    background-color: #420D09;
+}
+.login{
+    border-radius: 30px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    border: solid;
+    color:#420D09;
+}
+.buttonlogincus-login{
+    background-color:#420D09;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 10px 0px 10px;
+    padding: 5px;
+    width: 50%;
+    border-radius: 5px;
+}
+.buttonlogincus-register{
+    background-color:#420D09;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 3px 10px 10px 10px;
+    padding: 5px;
+    width: 50%;
+    border-radius: 5px;
+}
+.buttonlogincus:hover{
+    background-color: skyblue;
+}
+.buttonloginadmin{
+    background-color:#420D09;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px;
+    padding: 5px;
+    width: 50%;
+    border-radius: 5px;
+}
+.buttonloginadmin:hover{
+    background-color: skyblue;
+}
+.buttonlogincus-register:hover{
+    background-color: skyblue;
+}
+.buttonlogincus-login:hover{
+    background-color: skyblue;
+}

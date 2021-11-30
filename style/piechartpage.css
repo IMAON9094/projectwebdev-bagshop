@@ -1,0 +1,38 @@
+header {
+    background-color: #930a00;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+    margin-top: 1px;
+
+}
+nav{
+    text-align: right;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+nav a:hover {
+    background-color :#f0d5bc;
+}
+
+nav a{
+    background-color: #FFD700;
+    color: black;
+    padding: 3px 5px;      
+    text-decoration: none;
+    margin: auto;
+    border: 0px solid white;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+
+ 
+ 
+ 
+
+   
+ 
+
+ 

@@ -1,0 +1,88 @@
+.show-product {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 288px);
+    grid-template-rows: repeat(auto-fill, 325px);
+    grid-gap: 10px;
+    padding: 10px;
+}
+.show-pd {
+    border: 5px solid #930a00;
+    border-radius: 8px;
+    text-align: center;
+    padding: 15px;
+}
+.show-pdlink {
+    text-decoration-line: none;
+    color: black;
+    font-weight: bolder;
+}
+.all-detail {
+    display: flex;
+    padding: 15px;
+}
+.pd-detail {
+    border: 1px solid black;
+    padding: 15px;
+    width: 350px;
+}
+.cart-tb {
+    border: 1px solid black;
+}
+header {
+    background-color: #930a00;
+    padding: 20px;
+    color: white;
+}
+.gar{
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.u{
+    text-align: right;
+    padding-top: 10px;
+    font-size: 17px;
+}
+b a{
+    background-color: white;
+    color: black;
+    padding: 3px 7px;      
+    text-decoration: none;
+    margin: auto;
+    border: 0px solid white;
+    border-radius: 5px;
+    font-size: 17px;
+}
+b :hover {
+    background-color :#FFE4B5;
+}
+.search{
+    text-align: right;
+}
+input{
+    position: relative;
+    display: inline-table;
+    box-sizing: border-box;
+}
+input[type="text"]{
+    border-radius: 25px 0px 0px 25px;
+    height: 21px;
+    width: 130px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+}
+input[type="submit"]{
+    border-radius: 0 25px 25px 0;
+    height: 21.5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: #ffc107;
+    font-size: 17px;
+    padding: 0px 10px 21px 10px;
+
+}
+input[type="submit"]:hover{
+    background: #FFE4B5;
+}

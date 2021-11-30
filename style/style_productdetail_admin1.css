@@ -1,0 +1,54 @@
+:root{
+    background-color: #420D09;
+
+}
+header{
+    background-color:#930a00;
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+}
+header:hover{
+        background-color:white;
+        color: #420D09;
+    }
+
+.all-detail {
+    text-align: left;
+}
+.pd-detail {
+    border: 7px double white;
+    width: 350px;
+    height: 270px;
+    color: white;
+    border-radius: 20px;
+    background-color: #420D09 ;
+}
+.pd-detail:hover {
+    border: 7px double white;
+    width: 350px;
+    color: #FD464A;
+    border-radius: 20px;
+    background-color: #420D09 ;
+
+}    
+a {
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 5px 15px;
+    background-color: #420D09;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    text-align: center ;
+    border: 2px outset white;
+}
+a:hover{
+    background-color: #FC4C4E;
+}
